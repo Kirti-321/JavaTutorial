@@ -8,5 +8,7 @@ public class Welcome
         System.out.println("Operators");
         System.out.println("if-else Statement");
         System.out.println("switch-case Statement");
+        System.out.println("loops");
+        System.out.println("Functions");
     }
 }
