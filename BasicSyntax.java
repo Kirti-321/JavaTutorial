@@ -4,6 +4,6 @@ public class BasicSyntax
     {
         System.out.println("Every main class will be enclosed inside a public class");
         System.out.println("'public static void main( String[] args )' is mandatory syntax for the main method");
-        System.out.println("Done with basic syntax");
+        System.out.println("Finally Done with basic syntax");
     }
 }
